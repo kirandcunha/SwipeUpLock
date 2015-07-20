@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swipe Up Lock</string>
+    <string name="title_activity_sample">Swipe Up Lock!</string>
+    <string name="hello_world">Swipe Up Lock!</string>
+    <string name="admin">Admin!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_device_admin_description">Administrator</string>
+
+</resources>
